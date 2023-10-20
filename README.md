@@ -1,7 +1,25 @@
-- 👋 Hi, I’m @Samxavier711
-- 👀 I’m interested in ---> Chess , travelling ...
-- 🌱 I’m currently learning ---> JS, Back-end developing
-- 💞️ I’m looking to collaborate on ---> Front-end develppoing using HTML, CSS , JS
-- 📫 How to reach me --> You can mail me --> adityamishra@iitbhilai.ac.in
-                          
+# Hello, I'm Aditya Mishra aka SamXavier711 👋
+
+Welcome to my GitHub user repository!
+
+## About Me
+
+- 💼 Data Science Enthusiast
+- 👨‍💻 Full-Stack Developer 
+- ♟ Chess Player
+- ✏️ Sketching Enthusiast
+
+
+
+## Contact
+
+You can reach me via email at adityamishra4727@gmail.com for any inquiries or collaborations. I'm always open to interesting projects and discussions.
+
+## Get in Touch
+
+Feel free to connect with me on GitHub or LinkedIn:
+
+
+- LinkedIn: [Sam Xavier](https://www.linkedin.com/in/aditya-mishra-162b35207/)
+
 
